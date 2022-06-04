@@ -1,4 +1,4 @@
-# firebase_app
+# Flutter Components
 
 A new Flutter project.
 
