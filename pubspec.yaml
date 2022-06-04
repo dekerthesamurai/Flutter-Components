@@ -62,6 +62,7 @@ flutter:
      - img/
      - img/unknown.png
      - img/samurai logo mark 1.jpg
+     - img/iron fist mark 1.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

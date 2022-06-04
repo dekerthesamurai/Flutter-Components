@@ -1,4 +1,5 @@
 import 'package:firebase_app/login_page.dart';
+import 'package:firebase_app/signup_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,12 +13,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
 
+      title: 'Flutter Demo',
+
+      debugShowCheckedModeBanner:false,
+        theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: LoginPage()
+      home: SignUpPage()
     );
   }
-} 
+}
