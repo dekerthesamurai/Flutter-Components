@@ -1,10 +1,15 @@
 # Flutter Components
 
-A new Flutter project.
+A few ready to use flutter components
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This repository contains small ready-to-go projects, which can in turn be inculminated into bigger mobile applications.
+
+Copy the link below to clone this repo.
+```
+https://github.com/dekerthesamurai/Flutter-Components.git
+```
 
 A few resources to get you started if this is your first Flutter project:
 
